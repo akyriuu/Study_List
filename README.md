@@ -1,0 +1,8 @@
+# CRUD - Create, Read, Update, Delete
+
+I learned quite a lot of new things while doing this, to the organization style, to the calls of actual functions, using local storage, and a lot more. I learned new CSS properties, how to make actual useful button commands, center what I need (at least on pc for now), and a lot of new things, I intend to learn a lot more and update this once again with new features and improvements, but for now, this is what I have.
+Most importantly (for me) is that I found it actually pretty interesting and it was a fun experience. I welcome feedback, enjoy using this for yourself if you think is a nice type of list to have.
+
+# Study List
+
+I made a Study List, as the main topic of my first CRUD. I chose this topic because I'm very inclined to track my progress and try to keep note of what I should improve, not as fast as possible, but as efficient as it should be. I also wanted to make a CRUD that I could use in my daily life, and this is the one that I think will be the most useful for me.
