@@ -1,0 +1,25 @@
+services:
+  # Fastify application
+  app:
+    build: .
+    ports:
+      - "2004:2004" #FROM PC TO CONTAINER, FROM CONTAINER TO PC
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql://marcus:password123@db:5432/studies_db
+
+      #Data base Postgres
+
+  db:
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_USER=marcus
+      - POSTGRES_PASSWORD=password123
+      - POSTGRES_DB=studies_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+volumes:
+  postgres_data:
