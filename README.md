@@ -7,10 +7,6 @@ Most importantly (for me) is that I found it actually pretty interesting and it 
 
 I made a Study List, as the main topic of my first CRUD. I chose this topic because I'm very inclined to track my progress and try to keep note of what I should improve, not as fast as possible, but as efficient as it should be. I also wanted to make a CRUD that I could use in my daily life, and this is the one that I think will be the most useful for me.
 
-Boa, Marcus! Adicionar essas seções no seu README.md é o que vai separar o seu projeto de um "trabalho de escola" de um projeto de nível profissional. Isso mostra que você não só sabe codar, mas entende de infraestrutura e persistência de dados.
-
-Aqui está o texto pronto para você copiar e colar no seu arquivo. Eu escrevi em inglês para manter o padrão do seu repositório, o que ajuda muito se algum recrutador gringo ou mentor sênior bater o olho.
-
 ## Docker & PostgreSQL
 
 This project has been fully migrated from a simple `localStorage` implementation to a professional environment using **Docker** and **PostgreSQL**.
